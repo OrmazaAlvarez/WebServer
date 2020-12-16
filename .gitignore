@@ -1,2 +1,4 @@
 node_modules/
-assets/
+public/assets/
+public/about-old.html
+public/index-old.html
